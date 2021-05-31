@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @knittyxan
-- 👀 I’m interested in ... Frontend web development, UI/UX, beautifully formatted code.
-- 🌱 I’m currently learning ... my value and place in the world.
+- 👀 I’m interested in ... Frontend web development, UI/UX, digital marketing, beautifully formatted code.
+- 🌱 I’m currently learning ... Tripetto, Mailtrain, and Ghost.
 - 💞️ I’m looking to collaborate on ... HTML and CSS.
 - 📫 How to reach me ... knitty.dev and instagram.com/knitty.dev
 
